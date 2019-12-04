@@ -38,6 +38,9 @@ const renderTodos = function(todos, filters) {
 const generateTodo = function(todo){
     const span = document.createElement('span');
     span.className = "todo-list";
+    span.innerHTML = '<h1>SS</h1>';
+    // d('<span>Kampret</span>');
+    // span.createElement('span');
     // span.createElement('span');
 
     span.textContent = todo.text
