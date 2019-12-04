@@ -1,2 +1,3 @@
-# todoapp
-Tugas dilo demi mendapat Donprizeeee
+# TodoApp
+Tugas Dilo x Cilsy, demi mendapat Donprizeeee
+Gapapa telat yang penting ga NULL
